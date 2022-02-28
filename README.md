@@ -13,3 +13,9 @@ Here is full installation steps:
 6. Now Download Acquire_Test.js file and put it into the folder where your cypress tests are stored such as: \cypress\integration
 7. Now Go back to VS Code and repeat step 5, you should see the test you added in step 6 show up
 8. Click on the test and you should be able to run the test without issue
+
+Improvements if given more time:
+
+1. I will create a list of global functions and variables that can be reused in different tests
+2. I will create a clean up after the test is done to restore everything back to initial stage
+3. I will create a data sheet that contains user name/email...etc that can be reused for different tests
